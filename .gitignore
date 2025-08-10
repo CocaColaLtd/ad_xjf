@@ -1,2 +1,7 @@
 data/
 ../*
+tf_events/
+checkpoints/
+__pycache__/
+run/
+logs/
